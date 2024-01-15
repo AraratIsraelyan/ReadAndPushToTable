@@ -1,0 +1,22 @@
+'Atlassian/Java_test0 | User: 13448396 | Permissions: READ_ONLY | User: 1414145 | Permissions: READ_ONLY | User: 148563 | Permissions: READ_WRITE',
+'Atlassian/Java_test2',
+'Atlassian/Java_test3',
+'Atlassian/Java_test4 | User: 13448396 | Permissions: READ_ONLY | User: 1414145 | Permissions: READ_ONLY | User: 148563 | Permissions: READ_WRITE | User: 7863225 | Permissions: READ_WRITE',
+'Atlassian/Java_test5 | User: 13448396 | Permissions: READ_ONLY | User: 1414145 | Permissions: READ_ONLY | User: 148563 | Permissions: READ_WRITE | User: 7863225 | Permissions: READ_WRITE | User: 13448396 | Permissions: READ_ONLY | User: 1414145 | Permissions: READ_ONLY | User: 148563 | Permissions: READ_WRITE | User: 7863225 | Permissions: READ_WRITE'
+'Atlassian/Java_test0 | User: 13448396 | Permissions: READ_ONLY | User: 1414145 | Permissions: READ_ONLY | User: 148563 | Permissions: READ_WRITE',
+'Atlassian/Java_test2',
+'Atlassian/Java_test3',
+'Atlassian/Java_test4 | User: 13448396 | Permissions: READ_ONLY | User: 1414145 | Permissions: READ_ONLY | User: 148563 | Permissions: READ_WRITE | User: 7863225 | Permissions: READ_WRITE',
+'Atlassian/Java_test5 | User: 13448396 | Permissions: READ_ONLY | User: 1414145 | Permissions: READ_ONLY | User: 148563 | Permissions: READ_WRITE | User: 7863225 | Permissions: READ_WRITE | User: 13448396 | Permissions: READ_ONLY | User: 1414145 | Permissions: READ_ONLY | User: 148563 | Permissions: READ_WRITE | User: 7863225 | Permissions: READ_WRITE'
+'Atlassian/Java_test0 | User: 13448396 | Permissions: READ_ONLY | User: 1414145 | Permissions: READ_ONLY | User: 148563 | Permissions: READ_WRITE',
+'Atlassian/Java_test2',
+'Atlassian/Java_test3',
+'Atlassian/Java_test4 | User: 13448396 | Permissions: READ_ONLY | User: 1414145 | Permissions: READ_ONLY | User: 148563 | Permissions: READ_WRITE | User: 7863225 | Permissions: READ_WRITE',
+'Atlassian/Java_test5 | User: 13448396 | Permissions: READ_ONLY | User: 1414145 | Permissions: READ_ONLY | User: 148563 | Permissions: READ_WRITE | User: 7863225 | Permissions: READ_WRITE | User: 13448396 | Permissions: READ_ONLY | User: 1414145 | Permissions: READ_ONLY | User: 148563 | Permissions: READ_WRITE | User: 7863225 | Permissions: READ_WRITE'
+'Atlassian/Java_test0 | User: 13448396 | Permissions: READ_ONLY | User: 1414145 | Permissions: READ_ONLY | User: 148563 | Permissions: READ_WRITE',
+'Atlassian/Java_test2',
+'Atlassian/Java_test3',
+'Atlassian/Java_test4 | User: 13448396 | Permissions: READ_ONLY | User: 1414145 | Permissions: READ_ONLY | User: 148563 | Permissions: READ_WRITE | User: 7863225 | Permissions: READ_WRITE',
+'Atlassian/Java_test5 | User: 13448396 | Permissions: READ_ONLY | User: 1414145 | Permissions: READ_ONLY | User: 148563 | Permissions: READ_WRITE | User: 7863225 | Permissions: READ_WRITE | User: 13448396 | Permissions: READ_ONLY | User: 1414145 | Permissions: READ_ONLY | User: 148563 | Permissions: READ_WRITE | User: 7863225 | Permissions: READ_WRITE'
+'Atlassian/Java_test2',
+'Atlassian/Java_test3'
